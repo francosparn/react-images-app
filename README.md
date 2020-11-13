@@ -1,3 +1,9 @@
+# Preview
+
+Image application developed with React. This application consumes an API called Pixabay. To carry out this project, it was also used with HTML, CSS and Bootstrap 5 (Bootswatch).
+
+![](https://i.imgur.com/6fFDUSG.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
